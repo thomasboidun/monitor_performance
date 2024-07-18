@@ -1,0 +1,1567 @@
+{
+    "name": "snapshot_image.png",
+    "scene": {
+        "model": {
+            "id": "model_id_123",
+            "file": "model_file.obj",
+            "size": "15MB",
+            "config": "model_config_string"
+        },
+        "decor": {
+            "id": "decor_id_456",
+            "file": "decor_file.obj",
+            "size": "10MB"
+        },
+        "animation": {
+            "id": "animation_id_789",
+            "type": "camera"
+        },
+        "hotspots": []
+    },
+    "configs": {
+        "resolution": {
+            "width": 1920,
+            "height": 1080
+        },
+        "format": {
+            "extension": "png",
+            "compression": "lossless"
+        }
+    },
+    "duration": 28.94778806767984,
+    "performance": [
+        {
+            "time": 0.058413028717041016,
+            "metrics": {
+                "cpu_usage": 0.0,
+                "memory_total": 7.4387359619140625,
+                "memory_available": 2.2978477478027344,
+                "memory_used": 5.140888214111328,
+                "memory_percentage": 69.1,
+                "gpu_usage": [
+                    {
+                        "id": 0,
+                        "name": "NVIDIA GeForce GTX 1050",
+                        "load": 0.0,
+                        "memory_total": 3.0,
+                        "memory_used": 0.1171875,
+                        "memory_free": 2.794921875,
+                        "temperature": 46.0
+                    }
+                ]
+            }
+        },
+        {
+            "time": 0.4664576053619385,
+            "metrics": {
+                "cpu_usage": 19.3,
+                "memory_total": 7.4387359619140625,
+                "memory_available": 2.2894935607910156,
+                "memory_used": 5.149242401123047,
+                "memory_percentage": 69.2,
+                "gpu_usage": [
+                    {
+                        "id": 0,
+                        "name": "NVIDIA GeForce GTX 1050",
+                        "load": 0.0,
+                        "memory_total": 3.0,
+                        "memory_used": 0.1171875,
+                        "memory_free": 2.794921875,
+                        "temperature": 46.0
+                    }
+                ]
+            }
+        },
+        {
+            "time": 0.8539426326751709,
+            "metrics": {
+                "cpu_usage": 7.0,
+                "memory_total": 7.4387359619140625,
+                "memory_available": 2.283832550048828,
+                "memory_used": 5.154903411865234,
+                "memory_percentage": 69.3,
+                "gpu_usage": [
+                    {
+                        "id": 0,
+                        "name": "NVIDIA GeForce GTX 1050",
+                        "load": 0.03,
+                        "memory_total": 3.0,
+                        "memory_used": 0.1171875,
+                        "memory_free": 2.794921875,
+                        "temperature": 46.0
+                    }
+                ]
+            }
+        },
+        {
+            "time": 1.2491340637207031,
+            "metrics": {
+                "cpu_usage": 25.2,
+                "memory_total": 7.4387359619140625,
+                "memory_available": 2.3067626953125,
+                "memory_used": 5.1319732666015625,
+                "memory_percentage": 69.0,
+                "gpu_usage": [
+                    {
+                        "id": 0,
+                        "name": "NVIDIA GeForce GTX 1050",
+                        "load": 0.03,
+                        "memory_total": 3.0,
+                        "memory_used": 0.123046875,
+                        "memory_free": 2.7890625,
+                        "temperature": 46.0
+                    }
+                ]
+            }
+        },
+        {
+            "time": 1.6597685813903809,
+            "metrics": {
+                "cpu_usage": 19.9,
+                "memory_total": 7.4387359619140625,
+                "memory_available": 2.29205322265625,
+                "memory_used": 5.1466827392578125,
+                "memory_percentage": 69.2,
+                "gpu_usage": [
+                    {
+                        "id": 0,
+                        "name": "NVIDIA GeForce GTX 1050",
+                        "load": 0.0,
+                        "memory_total": 3.0,
+                        "memory_used": 0.1123046875,
+                        "memory_free": 2.7998046875,
+                        "temperature": 46.0
+                    }
+                ]
+            }
+        },
+        {
+            "time": 2.0502660274505615,
+            "metrics": {
+                "cpu_usage": 17.7,
+                "memory_total": 7.4387359619140625,
+                "memory_available": 2.288433074951172,
+                "memory_used": 5.150302886962891,
+                "memory_percentage": 69.2,
+                "gpu_usage": [
+                    {
+                        "id": 0,
+                        "name": "NVIDIA GeForce GTX 1050",
+                        "load": 0.0,
+                        "memory_total": 3.0,
+                        "memory_used": 0.1103515625,
+                        "memory_free": 2.8017578125,
+                        "temperature": 46.0
+                    }
+                ]
+            }
+        },
+        {
+            "time": 2.4490368366241455,
+            "metrics": {
+                "cpu_usage": 14.9,
+                "memory_total": 7.4387359619140625,
+                "memory_available": 2.2977447509765625,
+                "memory_used": 5.1409912109375,
+                "memory_percentage": 69.1,
+                "gpu_usage": [
+                    {
+                        "id": 0,
+                        "name": "NVIDIA GeForce GTX 1050",
+                        "load": 0.38,
+                        "memory_total": 3.0,
+                        "memory_used": 0.10546875,
+                        "memory_free": 2.806640625,
+                        "temperature": 46.0
+                    }
+                ]
+            }
+        },
+        {
+            "time": 2.8459906578063965,
+            "metrics": {
+                "cpu_usage": 8.3,
+                "memory_total": 7.4387359619140625,
+                "memory_available": 2.2886924743652344,
+                "memory_used": 5.150043487548828,
+                "memory_percentage": 69.2,
+                "gpu_usage": [
+                    {
+                        "id": 0,
+                        "name": "NVIDIA GeForce GTX 1050",
+                        "load": 0.0,
+                        "memory_total": 3.0,
+                        "memory_used": 0.10546875,
+                        "memory_free": 2.806640625,
+                        "temperature": 46.0
+                    }
+                ]
+            }
+        },
+        {
+            "time": 3.25323748588562,
+            "metrics": {
+                "cpu_usage": 4.3,
+                "memory_total": 7.4387359619140625,
+                "memory_available": 2.293468475341797,
+                "memory_used": 5.145267486572266,
+                "memory_percentage": 69.2,
+                "gpu_usage": [
+                    {
+                        "id": 0,
+                        "name": "NVIDIA GeForce GTX 1050",
+                        "load": 0.0,
+                        "memory_total": 3.0,
+                        "memory_used": 0.10546875,
+                        "memory_free": 2.806640625,
+                        "temperature": 46.0
+                    }
+                ]
+            }
+        },
+        {
+            "time": 3.6558241844177246,
+            "metrics": {
+                "cpu_usage": 8.1,
+                "memory_total": 7.4387359619140625,
+                "memory_available": 2.294677734375,
+                "memory_used": 5.1440582275390625,
+                "memory_percentage": 69.2,
+                "gpu_usage": [
+                    {
+                        "id": 0,
+                        "name": "NVIDIA GeForce GTX 1050",
+                        "load": 0.0,
+                        "memory_total": 3.0,
+                        "memory_used": 0.10546875,
+                        "memory_free": 2.806640625,
+                        "temperature": 46.0
+                    }
+                ]
+            }
+        },
+        {
+            "time": 4.068376541137695,
+            "metrics": {
+                "cpu_usage": 12.0,
+                "memory_total": 7.4387359619140625,
+                "memory_available": 2.289928436279297,
+                "memory_used": 5.148807525634766,
+                "memory_percentage": 69.2,
+                "gpu_usage": [
+                    {
+                        "id": 0,
+                        "name": "NVIDIA GeForce GTX 1050",
+                        "load": 0.0,
+                        "memory_total": 3.0,
+                        "memory_used": 0.10546875,
+                        "memory_free": 2.806640625,
+                        "temperature": 46.0
+                    }
+                ]
+            }
+        },
+        {
+            "time": 4.450545310974121,
+            "metrics": {
+                "cpu_usage": 28.4,
+                "memory_total": 7.4387359619140625,
+                "memory_available": 2.3163108825683594,
+                "memory_used": 5.122425079345703,
+                "memory_percentage": 68.9,
+                "gpu_usage": [
+                    {
+                        "id": 0,
+                        "name": "NVIDIA GeForce GTX 1050",
+                        "load": 0.0,
+                        "memory_total": 3.0,
+                        "memory_used": 0.103515625,
+                        "memory_free": 2.80859375,
+                        "temperature": 46.0
+                    }
+                ]
+            }
+        },
+        {
+            "time": 4.851019382476807,
+            "metrics": {
+                "cpu_usage": 15.0,
+                "memory_total": 7.4387359619140625,
+                "memory_available": 2.313323974609375,
+                "memory_used": 5.1254119873046875,
+                "memory_percentage": 68.9,
+                "gpu_usage": [
+                    {
+                        "id": 0,
+                        "name": "NVIDIA GeForce GTX 1050",
+                        "load": 0.0,
+                        "memory_total": 3.0,
+                        "memory_used": 0.0947265625,
+                        "memory_free": 2.8173828125,
+                        "temperature": 46.0
+                    }
+                ]
+            }
+        },
+        {
+            "time": 5.252437114715576,
+            "metrics": {
+                "cpu_usage": 16.7,
+                "memory_total": 7.4387359619140625,
+                "memory_available": 2.341999053955078,
+                "memory_used": 5.096736907958984,
+                "memory_percentage": 68.5,
+                "gpu_usage": [
+                    {
+                        "id": 0,
+                        "name": "NVIDIA GeForce GTX 1050",
+                        "load": 0.0,
+                        "memory_total": 3.0,
+                        "memory_used": 0.0947265625,
+                        "memory_free": 2.8173828125,
+                        "temperature": 46.0
+                    }
+                ]
+            }
+        },
+        {
+            "time": 5.64630126953125,
+            "metrics": {
+                "cpu_usage": 4.0,
+                "memory_total": 7.4387359619140625,
+                "memory_available": 2.3422203063964844,
+                "memory_used": 5.096515655517578,
+                "memory_percentage": 68.5,
+                "gpu_usage": [
+                    {
+                        "id": 0,
+                        "name": "NVIDIA GeForce GTX 1050",
+                        "load": 0.0,
+                        "memory_total": 3.0,
+                        "memory_used": 0.0947265625,
+                        "memory_free": 2.8173828125,
+                        "temperature": 46.0
+                    }
+                ]
+            }
+        },
+        {
+            "time": 6.038685083389282,
+            "metrics": {
+                "cpu_usage": 31.5,
+                "memory_total": 7.4387359619140625,
+                "memory_available": 2.33270263671875,
+                "memory_used": 5.1060333251953125,
+                "memory_percentage": 68.6,
+                "gpu_usage": [
+                    {
+                        "id": 0,
+                        "name": "NVIDIA GeForce GTX 1050",
+                        "load": 0.26,
+                        "memory_total": 3.0,
+                        "memory_used": 0.095703125,
+                        "memory_free": 2.81640625,
+                        "temperature": 46.0
+                    }
+                ]
+            }
+        },
+        {
+            "time": 6.427245616912842,
+            "metrics": {
+                "cpu_usage": 27.9,
+                "memory_total": 7.4387359619140625,
+                "memory_available": 2.341289520263672,
+                "memory_used": 5.097446441650391,
+                "memory_percentage": 68.5,
+                "gpu_usage": [
+                    {
+                        "id": 0,
+                        "name": "NVIDIA GeForce GTX 1050",
+                        "load": 0.03,
+                        "memory_total": 3.0,
+                        "memory_used": 0.095703125,
+                        "memory_free": 2.81640625,
+                        "temperature": 46.0
+                    }
+                ]
+            }
+        },
+        {
+            "time": 6.817927837371826,
+            "metrics": {
+                "cpu_usage": 21.4,
+                "memory_total": 7.4387359619140625,
+                "memory_available": 2.337566375732422,
+                "memory_used": 5.101169586181641,
+                "memory_percentage": 68.6,
+                "gpu_usage": [
+                    {
+                        "id": 0,
+                        "name": "NVIDIA GeForce GTX 1050",
+                        "load": 0.0,
+                        "memory_total": 3.0,
+                        "memory_used": 0.095703125,
+                        "memory_free": 2.81640625,
+                        "temperature": 46.0
+                    }
+                ]
+            }
+        },
+        {
+            "time": 7.231459379196167,
+            "metrics": {
+                "cpu_usage": 34.2,
+                "memory_total": 7.4387359619140625,
+                "memory_available": 2.3309059143066406,
+                "memory_used": 5.107830047607422,
+                "memory_percentage": 68.7,
+                "gpu_usage": [
+                    {
+                        "id": 0,
+                        "name": "NVIDIA GeForce GTX 1050",
+                        "load": 0.4,
+                        "memory_total": 3.0,
+                        "memory_used": 0.0986328125,
+                        "memory_free": 2.8134765625,
+                        "temperature": 46.0
+                    }
+                ]
+            }
+        },
+        {
+            "time": 7.634623765945435,
+            "metrics": {
+                "cpu_usage": 75.0,
+                "memory_total": 7.4387359619140625,
+                "memory_available": 2.3149986267089844,
+                "memory_used": 5.123737335205078,
+                "memory_percentage": 68.9,
+                "gpu_usage": [
+                    {
+                        "id": 0,
+                        "name": "NVIDIA GeForce GTX 1050",
+                        "load": 0.82,
+                        "memory_total": 3.0,
+                        "memory_used": 0.1171875,
+                        "memory_free": 2.794921875,
+                        "temperature": 46.0
+                    }
+                ]
+            }
+        },
+        {
+            "time": 8.034348249435425,
+            "metrics": {
+                "cpu_usage": 49.5,
+                "memory_total": 7.4387359619140625,
+                "memory_available": 2.321441650390625,
+                "memory_used": 5.1172943115234375,
+                "memory_percentage": 68.8,
+                "gpu_usage": [
+                    {
+                        "id": 0,
+                        "name": "NVIDIA GeForce GTX 1050",
+                        "load": 0.38,
+                        "memory_total": 3.0,
+                        "memory_used": 0.1171875,
+                        "memory_free": 2.794921875,
+                        "temperature": 46.0
+                    }
+                ]
+            }
+        },
+        {
+            "time": 8.426647901535034,
+            "metrics": {
+                "cpu_usage": 51.7,
+                "memory_total": 7.4387359619140625,
+                "memory_available": 2.3304481506347656,
+                "memory_used": 5.108287811279297,
+                "memory_percentage": 68.7,
+                "gpu_usage": [
+                    {
+                        "id": 0,
+                        "name": "NVIDIA GeForce GTX 1050",
+                        "load": 0.32,
+                        "memory_total": 3.0,
+                        "memory_used": 0.1171875,
+                        "memory_free": 2.794921875,
+                        "temperature": 46.0
+                    }
+                ]
+            }
+        },
+        {
+            "time": 8.814493417739868,
+            "metrics": {
+                "cpu_usage": 39.6,
+                "memory_total": 7.4387359619140625,
+                "memory_available": 2.328174591064453,
+                "memory_used": 5.110561370849609,
+                "memory_percentage": 68.7,
+                "gpu_usage": [
+                    {
+                        "id": 0,
+                        "name": "NVIDIA GeForce GTX 1050",
+                        "load": 0.17,
+                        "memory_total": 3.0,
+                        "memory_used": 0.1181640625,
+                        "memory_free": 2.7939453125,
+                        "temperature": 46.0
+                    }
+                ]
+            }
+        },
+        {
+            "time": 9.222826480865479,
+            "metrics": {
+                "cpu_usage": 35.1,
+                "memory_total": 7.4387359619140625,
+                "memory_available": 2.3198280334472656,
+                "memory_used": 5.118907928466797,
+                "memory_percentage": 68.8,
+                "gpu_usage": [
+                    {
+                        "id": 0,
+                        "name": "NVIDIA GeForce GTX 1050",
+                        "load": 0.15,
+                        "memory_total": 3.0,
+                        "memory_used": 0.119140625,
+                        "memory_free": 2.79296875,
+                        "temperature": 46.0
+                    }
+                ]
+            }
+        },
+        {
+            "time": 9.617558479309082,
+            "metrics": {
+                "cpu_usage": 53.3,
+                "memory_total": 7.4387359619140625,
+                "memory_available": 2.3419342041015625,
+                "memory_used": 5.0968017578125,
+                "memory_percentage": 68.5,
+                "gpu_usage": [
+                    {
+                        "id": 0,
+                        "name": "NVIDIA GeForce GTX 1050",
+                        "load": 0.35,
+                        "memory_total": 3.0,
+                        "memory_used": 0.119140625,
+                        "memory_free": 2.79296875,
+                        "temperature": 46.0
+                    }
+                ]
+            }
+        },
+        {
+            "time": 10.009925365447998,
+            "metrics": {
+                "cpu_usage": 53.5,
+                "memory_total": 7.4387359619140625,
+                "memory_available": 2.3392333984375,
+                "memory_used": 5.0995025634765625,
+                "memory_percentage": 68.6,
+                "gpu_usage": [
+                    {
+                        "id": 0,
+                        "name": "NVIDIA GeForce GTX 1050",
+                        "load": 0.32,
+                        "memory_total": 3.0,
+                        "memory_used": 0.119140625,
+                        "memory_free": 2.79296875,
+                        "temperature": 46.0
+                    }
+                ]
+            }
+        },
+        {
+            "time": 10.399560451507568,
+            "metrics": {
+                "cpu_usage": 29.3,
+                "memory_total": 7.4387359619140625,
+                "memory_available": 2.340991973876953,
+                "memory_used": 5.097743988037109,
+                "memory_percentage": 68.5,
+                "gpu_usage": [
+                    {
+                        "id": 0,
+                        "name": "NVIDIA GeForce GTX 1050",
+                        "load": 0.0,
+                        "memory_total": 3.0,
+                        "memory_used": 0.119140625,
+                        "memory_free": 2.79296875,
+                        "temperature": 46.0
+                    }
+                ]
+            }
+        },
+        {
+            "time": 10.810144424438477,
+            "metrics": {
+                "cpu_usage": 33.5,
+                "memory_total": 7.4387359619140625,
+                "memory_available": 2.3231887817382812,
+                "memory_used": 5.115547180175781,
+                "memory_percentage": 68.8,
+                "gpu_usage": [
+                    {
+                        "id": 0,
+                        "name": "NVIDIA GeForce GTX 1050",
+                        "load": 0.01,
+                        "memory_total": 3.0,
+                        "memory_used": 0.1220703125,
+                        "memory_free": 2.7900390625,
+                        "temperature": 46.0
+                    }
+                ]
+            }
+        },
+        {
+            "time": 11.209713220596313,
+            "metrics": {
+                "cpu_usage": 23.9,
+                "memory_total": 7.4387359619140625,
+                "memory_available": 2.333995819091797,
+                "memory_used": 5.104740142822266,
+                "memory_percentage": 68.6,
+                "gpu_usage": [
+                    {
+                        "id": 0,
+                        "name": "NVIDIA GeForce GTX 1050",
+                        "load": 0.06,
+                        "memory_total": 3.0,
+                        "memory_used": 0.1220703125,
+                        "memory_free": 2.7900390625,
+                        "temperature": 46.0
+                    }
+                ]
+            }
+        },
+        {
+            "time": 11.601212978363037,
+            "metrics": {
+                "cpu_usage": 50.5,
+                "memory_total": 7.4387359619140625,
+                "memory_available": 2.3437423706054688,
+                "memory_used": 5.094993591308594,
+                "memory_percentage": 68.5,
+                "gpu_usage": [
+                    {
+                        "id": 0,
+                        "name": "NVIDIA GeForce GTX 1050",
+                        "load": 0.29,
+                        "memory_total": 3.0,
+                        "memory_used": 0.1220703125,
+                        "memory_free": 2.7900390625,
+                        "temperature": 46.0
+                    }
+                ]
+            }
+        },
+        {
+            "time": 12.015856504440308,
+            "metrics": {
+                "cpu_usage": 38.2,
+                "memory_total": 7.4387359619140625,
+                "memory_available": 2.3420066833496094,
+                "memory_used": 5.096729278564453,
+                "memory_percentage": 68.5,
+                "gpu_usage": [
+                    {
+                        "id": 0,
+                        "name": "NVIDIA GeForce GTX 1050",
+                        "load": 0.2,
+                        "memory_total": 3.0,
+                        "memory_used": 0.1220703125,
+                        "memory_free": 2.7900390625,
+                        "temperature": 46.0
+                    }
+                ]
+            }
+        },
+        {
+            "time": 12.417760372161865,
+            "metrics": {
+                "cpu_usage": 29.5,
+                "memory_total": 7.4387359619140625,
+                "memory_available": 2.3494834899902344,
+                "memory_used": 5.089252471923828,
+                "memory_percentage": 68.4,
+                "gpu_usage": [
+                    {
+                        "id": 0,
+                        "name": "NVIDIA GeForce GTX 1050",
+                        "load": 0.0,
+                        "memory_total": 3.0,
+                        "memory_used": 0.1220703125,
+                        "memory_free": 2.7900390625,
+                        "temperature": 47.0
+                    }
+                ]
+            }
+        },
+        {
+            "time": 12.817464828491211,
+            "metrics": {
+                "cpu_usage": 30.2,
+                "memory_total": 7.4387359619140625,
+                "memory_available": 2.336700439453125,
+                "memory_used": 5.1020355224609375,
+                "memory_percentage": 68.6,
+                "gpu_usage": [
+                    {
+                        "id": 0,
+                        "name": "NVIDIA GeForce GTX 1050",
+                        "load": 0.09,
+                        "memory_total": 3.0,
+                        "memory_used": 0.1162109375,
+                        "memory_free": 2.7958984375,
+                        "temperature": 47.0
+                    }
+                ]
+            }
+        },
+        {
+            "time": 13.24321460723877,
+            "metrics": {
+                "cpu_usage": 44.7,
+                "memory_total": 7.4387359619140625,
+                "memory_available": 2.330108642578125,
+                "memory_used": 5.1086273193359375,
+                "memory_percentage": 68.7,
+                "gpu_usage": [
+                    {
+                        "id": 0,
+                        "name": "NVIDIA GeForce GTX 1050",
+                        "load": 0.3,
+                        "memory_total": 3.0,
+                        "memory_used": 0.1162109375,
+                        "memory_free": 2.7958984375,
+                        "temperature": 47.0
+                    }
+                ]
+            }
+        },
+        {
+            "time": 13.642579317092896,
+            "metrics": {
+                "cpu_usage": 56.2,
+                "memory_total": 7.4387359619140625,
+                "memory_available": 2.3396263122558594,
+                "memory_used": 5.099109649658203,
+                "memory_percentage": 68.5,
+                "gpu_usage": [
+                    {
+                        "id": 0,
+                        "name": "NVIDIA GeForce GTX 1050",
+                        "load": 0.31,
+                        "memory_total": 3.0,
+                        "memory_used": 0.1162109375,
+                        "memory_free": 2.7958984375,
+                        "temperature": 47.0
+                    }
+                ]
+            }
+        },
+        {
+            "time": 14.026846170425415,
+            "metrics": {
+                "cpu_usage": 26.8,
+                "memory_total": 7.4387359619140625,
+                "memory_available": 2.336811065673828,
+                "memory_used": 5.101924896240234,
+                "memory_percentage": 68.6,
+                "gpu_usage": [
+                    {
+                        "id": 0,
+                        "name": "NVIDIA GeForce GTX 1050",
+                        "load": 0.06,
+                        "memory_total": 3.0,
+                        "memory_used": 0.1162109375,
+                        "memory_free": 2.7958984375,
+                        "temperature": 47.0
+                    }
+                ]
+            }
+        },
+        {
+            "time": 14.419480085372925,
+            "metrics": {
+                "cpu_usage": 29.0,
+                "memory_total": 7.4387359619140625,
+                "memory_available": 2.3365478515625,
+                "memory_used": 5.1021881103515625,
+                "memory_percentage": 68.6,
+                "gpu_usage": [
+                    {
+                        "id": 0,
+                        "name": "NVIDIA GeForce GTX 1050",
+                        "load": 0.0,
+                        "memory_total": 3.0,
+                        "memory_used": 0.1162109375,
+                        "memory_free": 2.7958984375,
+                        "temperature": 47.0
+                    }
+                ]
+            }
+        },
+        {
+            "time": 14.834634780883789,
+            "metrics": {
+                "cpu_usage": 7.0,
+                "memory_total": 7.4387359619140625,
+                "memory_available": 2.334331512451172,
+                "memory_used": 5.104404449462891,
+                "memory_percentage": 68.6,
+                "gpu_usage": [
+                    {
+                        "id": 0,
+                        "name": "NVIDIA GeForce GTX 1050",
+                        "load": 0.01,
+                        "memory_total": 3.0,
+                        "memory_used": 0.115234375,
+                        "memory_free": 2.796875,
+                        "temperature": 47.0
+                    }
+                ]
+            }
+        },
+        {
+            "time": 15.232098579406738,
+            "metrics": {
+                "cpu_usage": 7.7,
+                "memory_total": 7.4387359619140625,
+                "memory_available": 2.3323211669921875,
+                "memory_used": 5.106414794921875,
+                "memory_percentage": 68.6,
+                "gpu_usage": [
+                    {
+                        "id": 0,
+                        "name": "NVIDIA GeForce GTX 1050",
+                        "load": 0.0,
+                        "memory_total": 3.0,
+                        "memory_used": 0.1044921875,
+                        "memory_free": 2.8076171875,
+                        "temperature": 47.0
+                    }
+                ]
+            }
+        },
+        {
+            "time": 15.642282962799072,
+            "metrics": {
+                "cpu_usage": 10.0,
+                "memory_total": 7.4387359619140625,
+                "memory_available": 2.3420867919921875,
+                "memory_used": 5.096649169921875,
+                "memory_percentage": 68.5,
+                "gpu_usage": [
+                    {
+                        "id": 0,
+                        "name": "NVIDIA GeForce GTX 1050",
+                        "load": 0.0,
+                        "memory_total": 3.0,
+                        "memory_used": 0.1044921875,
+                        "memory_free": 2.8076171875,
+                        "temperature": 47.0
+                    }
+                ]
+            }
+        },
+        {
+            "time": 16.0434308052063,
+            "metrics": {
+                "cpu_usage": 44.0,
+                "memory_total": 7.4387359619140625,
+                "memory_available": 2.337493896484375,
+                "memory_used": 5.1012420654296875,
+                "memory_percentage": 68.6,
+                "gpu_usage": [
+                    {
+                        "id": 0,
+                        "name": "NVIDIA GeForce GTX 1050",
+                        "load": 0.35,
+                        "memory_total": 3.0,
+                        "memory_used": 0.1044921875,
+                        "memory_free": 2.8076171875,
+                        "temperature": 47.0
+                    }
+                ]
+            }
+        },
+        {
+            "time": 16.443606853485107,
+            "metrics": {
+                "cpu_usage": 42.8,
+                "memory_total": 7.4387359619140625,
+                "memory_available": 2.342815399169922,
+                "memory_used": 5.095920562744141,
+                "memory_percentage": 68.5,
+                "gpu_usage": [
+                    {
+                        "id": 0,
+                        "name": "NVIDIA GeForce GTX 1050",
+                        "load": 0.3,
+                        "memory_total": 3.0,
+                        "memory_used": 0.1044921875,
+                        "memory_free": 2.8076171875,
+                        "temperature": 47.0
+                    }
+                ]
+            }
+        },
+        {
+            "time": 16.842350244522095,
+            "metrics": {
+                "cpu_usage": 53.4,
+                "memory_total": 7.4387359619140625,
+                "memory_available": 2.323078155517578,
+                "memory_used": 5.115657806396484,
+                "memory_percentage": 68.8,
+                "gpu_usage": [
+                    {
+                        "id": 0,
+                        "name": "NVIDIA GeForce GTX 1050",
+                        "load": 0.09,
+                        "memory_total": 3.0,
+                        "memory_used": 0.107421875,
+                        "memory_free": 2.8046875,
+                        "temperature": 47.0
+                    }
+                ]
+            }
+        },
+        {
+            "time": 17.26112151145935,
+            "metrics": {
+                "cpu_usage": 66.4,
+                "memory_total": 7.4387359619140625,
+                "memory_available": 2.3278541564941406,
+                "memory_used": 5.110881805419922,
+                "memory_percentage": 68.7,
+                "gpu_usage": [
+                    {
+                        "id": 0,
+                        "name": "NVIDIA GeForce GTX 1050",
+                        "load": 0.29,
+                        "memory_total": 3.0,
+                        "memory_used": 0.1083984375,
+                        "memory_free": 2.8037109375,
+                        "temperature": 47.0
+                    }
+                ]
+            }
+        },
+        {
+            "time": 17.655110359191895,
+            "metrics": {
+                "cpu_usage": 36.2,
+                "memory_total": 7.4387359619140625,
+                "memory_available": 2.333812713623047,
+                "memory_used": 5.104923248291016,
+                "memory_percentage": 68.6,
+                "gpu_usage": [
+                    {
+                        "id": 0,
+                        "name": "NVIDIA GeForce GTX 1050",
+                        "load": 0.35,
+                        "memory_total": 3.0,
+                        "memory_used": 0.1083984375,
+                        "memory_free": 2.8037109375,
+                        "temperature": 47.0
+                    }
+                ]
+            }
+        },
+        {
+            "time": 18.052788257598877,
+            "metrics": {
+                "cpu_usage": 26.0,
+                "memory_total": 7.4387359619140625,
+                "memory_available": 2.3314132690429688,
+                "memory_used": 5.107322692871094,
+                "memory_percentage": 68.7,
+                "gpu_usage": [
+                    {
+                        "id": 0,
+                        "name": "NVIDIA GeForce GTX 1050",
+                        "load": 0.32,
+                        "memory_total": 3.0,
+                        "memory_used": 0.1083984375,
+                        "memory_free": 2.8037109375,
+                        "temperature": 47.0
+                    }
+                ]
+            }
+        },
+        {
+            "time": 18.45770025253296,
+            "metrics": {
+                "cpu_usage": 36.8,
+                "memory_total": 7.4387359619140625,
+                "memory_available": 2.338092803955078,
+                "memory_used": 5.100643157958984,
+                "memory_percentage": 68.6,
+                "gpu_usage": [
+                    {
+                        "id": 0,
+                        "name": "NVIDIA GeForce GTX 1050",
+                        "load": 0.03,
+                        "memory_total": 3.0,
+                        "memory_used": 0.1083984375,
+                        "memory_free": 2.8037109375,
+                        "temperature": 47.0
+                    }
+                ]
+            }
+        },
+        {
+            "time": 18.876872777938843,
+            "metrics": {
+                "cpu_usage": 38.9,
+                "memory_total": 7.4387359619140625,
+                "memory_available": 2.3222923278808594,
+                "memory_used": 5.116443634033203,
+                "memory_percentage": 68.8,
+                "gpu_usage": [
+                    {
+                        "id": 0,
+                        "name": "NVIDIA GeForce GTX 1050",
+                        "load": 0.12,
+                        "memory_total": 3.0,
+                        "memory_used": 0.109375,
+                        "memory_free": 2.802734375,
+                        "temperature": 47.0
+                    }
+                ]
+            }
+        },
+        {
+            "time": 19.276041746139526,
+            "metrics": {
+                "cpu_usage": 34.1,
+                "memory_total": 7.4387359619140625,
+                "memory_available": 2.3346023559570312,
+                "memory_used": 5.104133605957031,
+                "memory_percentage": 68.6,
+                "gpu_usage": [
+                    {
+                        "id": 0,
+                        "name": "NVIDIA GeForce GTX 1050",
+                        "load": 0.02,
+                        "memory_total": 3.0,
+                        "memory_used": 0.109375,
+                        "memory_free": 2.802734375,
+                        "temperature": 47.0
+                    }
+                ]
+            }
+        },
+        {
+            "time": 19.676055431365967,
+            "metrics": {
+                "cpu_usage": 58.0,
+                "memory_total": 7.4387359619140625,
+                "memory_available": 2.337413787841797,
+                "memory_used": 5.101322174072266,
+                "memory_percentage": 68.6,
+                "gpu_usage": [
+                    {
+                        "id": 0,
+                        "name": "NVIDIA GeForce GTX 1050",
+                        "load": 0.33,
+                        "memory_total": 3.0,
+                        "memory_used": 0.107421875,
+                        "memory_free": 2.8046875,
+                        "temperature": 47.0
+                    }
+                ]
+            }
+        },
+        {
+            "time": 20.067779541015625,
+            "metrics": {
+                "cpu_usage": 52.9,
+                "memory_total": 7.4387359619140625,
+                "memory_available": 2.3369712829589844,
+                "memory_used": 5.101764678955078,
+                "memory_percentage": 68.6,
+                "gpu_usage": [
+                    {
+                        "id": 0,
+                        "name": "NVIDIA GeForce GTX 1050",
+                        "load": 0.32,
+                        "memory_total": 3.0,
+                        "memory_used": 0.107421875,
+                        "memory_free": 2.8046875,
+                        "temperature": 47.0
+                    }
+                ]
+            }
+        },
+        {
+            "time": 20.46811604499817,
+            "metrics": {
+                "cpu_usage": 37.8,
+                "memory_total": 7.4387359619140625,
+                "memory_available": 2.342815399169922,
+                "memory_used": 5.095920562744141,
+                "memory_percentage": 68.5,
+                "gpu_usage": [
+                    {
+                        "id": 0,
+                        "name": "NVIDIA GeForce GTX 1050",
+                        "load": 0.08,
+                        "memory_total": 3.0,
+                        "memory_used": 0.107421875,
+                        "memory_free": 2.8046875,
+                        "temperature": 47.0
+                    }
+                ]
+            }
+        },
+        {
+            "time": 20.866832494735718,
+            "metrics": {
+                "cpu_usage": 23.9,
+                "memory_total": 7.4387359619140625,
+                "memory_available": 2.3307342529296875,
+                "memory_used": 5.108001708984375,
+                "memory_percentage": 68.7,
+                "gpu_usage": [
+                    {
+                        "id": 0,
+                        "name": "NVIDIA GeForce GTX 1050",
+                        "load": 0.02,
+                        "memory_total": 3.0,
+                        "memory_used": 0.107421875,
+                        "memory_free": 2.8046875,
+                        "temperature": 47.0
+                    }
+                ]
+            }
+        },
+        {
+            "time": 21.282068967819214,
+            "metrics": {
+                "cpu_usage": 27.5,
+                "memory_total": 7.4387359619140625,
+                "memory_available": 2.3298606872558594,
+                "memory_used": 5.108875274658203,
+                "memory_percentage": 68.7,
+                "gpu_usage": [
+                    {
+                        "id": 0,
+                        "name": "NVIDIA GeForce GTX 1050",
+                        "load": 0.0,
+                        "memory_total": 3.0,
+                        "memory_used": 0.107421875,
+                        "memory_free": 2.8046875,
+                        "temperature": 47.0
+                    }
+                ]
+            }
+        },
+        {
+            "time": 21.684354066848755,
+            "metrics": {
+                "cpu_usage": 44.5,
+                "memory_total": 7.4387359619140625,
+                "memory_available": 2.335102081298828,
+                "memory_used": 5.103633880615234,
+                "memory_percentage": 68.6,
+                "gpu_usage": [
+                    {
+                        "id": 0,
+                        "name": "NVIDIA GeForce GTX 1050",
+                        "load": 0.3,
+                        "memory_total": 3.0,
+                        "memory_used": 0.109375,
+                        "memory_free": 2.802734375,
+                        "temperature": 47.0
+                    }
+                ]
+            }
+        },
+        {
+            "time": 22.09236979484558,
+            "metrics": {
+                "cpu_usage": 41.2,
+                "memory_total": 7.4387359619140625,
+                "memory_available": 2.3246612548828125,
+                "memory_used": 5.11407470703125,
+                "memory_percentage": 68.7,
+                "gpu_usage": [
+                    {
+                        "id": 0,
+                        "name": "NVIDIA GeForce GTX 1050",
+                        "load": 0.29,
+                        "memory_total": 3.0,
+                        "memory_used": 0.109375,
+                        "memory_free": 2.802734375,
+                        "temperature": 47.0
+                    }
+                ]
+            }
+        },
+        {
+            "time": 22.49298357963562,
+            "metrics": {
+                "cpu_usage": 29.9,
+                "memory_total": 7.4387359619140625,
+                "memory_available": 2.3381690979003906,
+                "memory_used": 5.100566864013672,
+                "memory_percentage": 68.6,
+                "gpu_usage": [
+                    {
+                        "id": 0,
+                        "name": "NVIDIA GeForce GTX 1050",
+                        "load": 0.03,
+                        "memory_total": 3.0,
+                        "memory_used": 0.109375,
+                        "memory_free": 2.802734375,
+                        "temperature": 47.0
+                    }
+                ]
+            }
+        },
+        {
+            "time": 22.886014699935913,
+            "metrics": {
+                "cpu_usage": 23.1,
+                "memory_total": 7.4387359619140625,
+                "memory_available": 2.3494720458984375,
+                "memory_used": 5.089263916015625,
+                "memory_percentage": 68.4,
+                "gpu_usage": [
+                    {
+                        "id": 0,
+                        "name": "NVIDIA GeForce GTX 1050",
+                        "load": 0.0,
+                        "memory_total": 3.0,
+                        "memory_used": 0.109375,
+                        "memory_free": 2.802734375,
+                        "temperature": 47.0
+                    }
+                ]
+            }
+        },
+        {
+            "time": 23.274510622024536,
+            "metrics": {
+                "cpu_usage": 20.4,
+                "memory_total": 7.4387359619140625,
+                "memory_available": 2.3413467407226562,
+                "memory_used": 5.097389221191406,
+                "memory_percentage": 68.5,
+                "gpu_usage": [
+                    {
+                        "id": 0,
+                        "name": "NVIDIA GeForce GTX 1050",
+                        "load": 0.01,
+                        "memory_total": 3.0,
+                        "memory_used": 0.109375,
+                        "memory_free": 2.802734375,
+                        "temperature": 47.0
+                    }
+                ]
+            }
+        },
+        {
+            "time": 23.704071760177612,
+            "metrics": {
+                "cpu_usage": 18.7,
+                "memory_total": 7.4387359619140625,
+                "memory_available": 2.3397789001464844,
+                "memory_used": 5.098957061767578,
+                "memory_percentage": 68.5,
+                "gpu_usage": [
+                    {
+                        "id": 0,
+                        "name": "NVIDIA GeForce GTX 1050",
+                        "load": 0.05,
+                        "memory_total": 3.0,
+                        "memory_used": 0.111328125,
+                        "memory_free": 2.80078125,
+                        "temperature": 47.0
+                    }
+                ]
+            }
+        },
+        {
+            "time": 24.13706660270691,
+            "metrics": {
+                "cpu_usage": 56.0,
+                "memory_total": 7.4387359619140625,
+                "memory_available": 2.342151641845703,
+                "memory_used": 5.096584320068359,
+                "memory_percentage": 68.5,
+                "gpu_usage": [
+                    {
+                        "id": 0,
+                        "name": "NVIDIA GeForce GTX 1050",
+                        "load": 0.3,
+                        "memory_total": 3.0,
+                        "memory_used": 0.111328125,
+                        "memory_free": 2.80078125,
+                        "temperature": 47.0
+                    }
+                ]
+            }
+        },
+        {
+            "time": 24.536522388458252,
+            "metrics": {
+                "cpu_usage": 52.6,
+                "memory_total": 7.4387359619140625,
+                "memory_available": 2.3413162231445312,
+                "memory_used": 5.097419738769531,
+                "memory_percentage": 68.5,
+                "gpu_usage": [
+                    {
+                        "id": 0,
+                        "name": "NVIDIA GeForce GTX 1050",
+                        "load": 0.34,
+                        "memory_total": 3.0,
+                        "memory_used": 0.111328125,
+                        "memory_free": 2.80078125,
+                        "temperature": 48.0
+                    }
+                ]
+            }
+        },
+        {
+            "time": 24.936405420303345,
+            "metrics": {
+                "cpu_usage": 47.5,
+                "memory_total": 7.4387359619140625,
+                "memory_available": 2.354961395263672,
+                "memory_used": 5.083774566650391,
+                "memory_percentage": 68.3,
+                "gpu_usage": [
+                    {
+                        "id": 0,
+                        "name": "NVIDIA GeForce GTX 1050",
+                        "load": 0.32,
+                        "memory_total": 3.0,
+                        "memory_used": 0.111328125,
+                        "memory_free": 2.80078125,
+                        "temperature": 48.0
+                    }
+                ]
+            }
+        },
+        {
+            "time": 25.326335430145264,
+            "metrics": {
+                "cpu_usage": 21.6,
+                "memory_total": 7.4387359619140625,
+                "memory_available": 2.34210205078125,
+                "memory_used": 5.0966339111328125,
+                "memory_percentage": 68.5,
+                "gpu_usage": [
+                    {
+                        "id": 0,
+                        "name": "NVIDIA GeForce GTX 1050",
+                        "load": 0.0,
+                        "memory_total": 3.0,
+                        "memory_used": 0.111328125,
+                        "memory_free": 2.80078125,
+                        "temperature": 48.0
+                    }
+                ]
+            }
+        },
+        {
+            "time": 25.735188961029053,
+            "metrics": {
+                "cpu_usage": 12.4,
+                "memory_total": 7.4387359619140625,
+                "memory_available": 2.3488922119140625,
+                "memory_used": 5.08984375,
+                "memory_percentage": 68.4,
+                "gpu_usage": [
+                    {
+                        "id": 0,
+                        "name": "NVIDIA GeForce GTX 1050",
+                        "load": 0.01,
+                        "memory_total": 3.0,
+                        "memory_used": 0.111328125,
+                        "memory_free": 2.80078125,
+                        "temperature": 48.0
+                    }
+                ]
+            }
+        },
+        {
+            "time": 26.143675804138184,
+            "metrics": {
+                "cpu_usage": 22.7,
+                "memory_total": 7.4387359619140625,
+                "memory_available": 2.3392295837402344,
+                "memory_used": 5.099506378173828,
+                "memory_percentage": 68.6,
+                "gpu_usage": [
+                    {
+                        "id": 0,
+                        "name": "NVIDIA GeForce GTX 1050",
+                        "load": 0.03,
+                        "memory_total": 3.0,
+                        "memory_used": 0.109375,
+                        "memory_free": 2.802734375,
+                        "temperature": 48.0
+                    }
+                ]
+            }
+        },
+        {
+            "time": 26.55236053466797,
+            "metrics": {
+                "cpu_usage": 49.1,
+                "memory_total": 7.4387359619140625,
+                "memory_available": 2.3349571228027344,
+                "memory_used": 5.103778839111328,
+                "memory_percentage": 68.6,
+                "gpu_usage": [
+                    {
+                        "id": 0,
+                        "name": "NVIDIA GeForce GTX 1050",
+                        "load": 0.32,
+                        "memory_total": 3.0,
+                        "memory_used": 0.109375,
+                        "memory_free": 2.802734375,
+                        "temperature": 48.0
+                    }
+                ]
+            }
+        },
+        {
+            "time": 26.951368808746338,
+            "metrics": {
+                "cpu_usage": 23.2,
+                "memory_total": 7.4387359619140625,
+                "memory_available": 2.3489303588867188,
+                "memory_used": 5.089805603027344,
+                "memory_percentage": 68.4,
+                "gpu_usage": [
+                    {
+                        "id": 0,
+                        "name": "NVIDIA GeForce GTX 1050",
+                        "load": 0.32,
+                        "memory_total": 3.0,
+                        "memory_used": 0.109375,
+                        "memory_free": 2.802734375,
+                        "temperature": 48.0
+                    }
+                ]
+            }
+        },
+        {
+            "time": 27.37490725517273,
+            "metrics": {
+                "cpu_usage": 38.2,
+                "memory_total": 7.4387359619140625,
+                "memory_available": 2.3446006774902344,
+                "memory_used": 5.094135284423828,
+                "memory_percentage": 68.5,
+                "gpu_usage": [
+                    {
+                        "id": 0,
+                        "name": "NVIDIA GeForce GTX 1050",
+                        "load": 0.27,
+                        "memory_total": 3.0,
+                        "memory_used": 0.109375,
+                        "memory_free": 2.802734375,
+                        "temperature": 48.0
+                    }
+                ]
+            }
+        },
+        {
+            "time": 27.76956796646118,
+            "metrics": {
+                "cpu_usage": 12.0,
+                "memory_total": 7.4387359619140625,
+                "memory_available": 2.3368072509765625,
+                "memory_used": 5.1019287109375,
+                "memory_percentage": 68.6,
+                "gpu_usage": [
+                    {
+                        "id": 0,
+                        "name": "NVIDIA GeForce GTX 1050",
+                        "load": 0.0,
+                        "memory_total": 3.0,
+                        "memory_used": 0.109375,
+                        "memory_free": 2.802734375,
+                        "temperature": 48.0
+                    }
+                ]
+            }
+        },
+        {
+            "time": 28.159353733062744,
+            "metrics": {
+                "cpu_usage": 28.5,
+                "memory_total": 7.4387359619140625,
+                "memory_available": 2.3423728942871094,
+                "memory_used": 5.096363067626953,
+                "memory_percentage": 68.5,
+                "gpu_usage": [
+                    {
+                        "id": 0,
+                        "name": "NVIDIA GeForce GTX 1050",
+                        "load": 0.04,
+                        "memory_total": 3.0,
+                        "memory_used": 0.109375,
+                        "memory_free": 2.802734375,
+                        "temperature": 48.0
+                    }
+                ]
+            }
+        },
+        {
+            "time": 28.552437782287598,
+            "metrics": {
+                "cpu_usage": 41.2,
+                "memory_total": 7.4387359619140625,
+                "memory_available": 2.336700439453125,
+                "memory_used": 5.1020355224609375,
+                "memory_percentage": 68.6,
+                "gpu_usage": [
+                    {
+                        "id": 0,
+                        "name": "NVIDIA GeForce GTX 1050",
+                        "load": 0.29,
+                        "memory_total": 3.0,
+                        "memory_used": 0.109375,
+                        "memory_free": 2.802734375,
+                        "temperature": 48.0
+                    }
+                ]
+            }
+        },
+        {
+            "time": 28.94233727455139,
+            "metrics": {
+                "cpu_usage": 41.5,
+                "memory_total": 7.4387359619140625,
+                "memory_available": 2.3499679565429688,
+                "memory_used": 5.088768005371094,
+                "memory_percentage": 68.4,
+                "gpu_usage": [
+                    {
+                        "id": 0,
+                        "name": "NVIDIA GeForce GTX 1050",
+                        "load": 0.29,
+                        "memory_total": 3.0,
+                        "memory_used": 0.109375,
+                        "memory_free": 2.802734375,
+                        "temperature": 48.0
+                    }
+                ]
+            }
+        }
+    ]
+}
